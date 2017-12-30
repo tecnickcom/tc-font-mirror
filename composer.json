@@ -1,0 +1,12 @@
+{
+  "name": "font",
+  "description": "Fonts",
+  "type": "fonts",
+  "keywords": [
+    "fonts",
+    "tc-lib-pdf",
+    "font"
+  ],
+  "require": {},
+  "require-dev": {}
+}

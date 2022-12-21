@@ -1,4 +1,4 @@
-# Fonts mirror
+# Fonts Mmirror
 
 This project contains a copy of the following OpenSource fonts:
 
@@ -8,6 +8,7 @@ This project contains a copy of the following OpenSource fonts:
 * https://ftp.gnu.org/gnu/unifont/unifont-9.0.06/unifont-9.0.06.ttf
 * https://sourceforge.net/projects/dejavu/files/dejavu/2.37/dejavu-fonts-ttf-2.37.zip
 
-Additional fonts are available at:
+
+Additional free fonts are available at:
 
 * https://github.com/google/fonts
